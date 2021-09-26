@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm fascinated about leveraging tech in order to create products that can impact people's life. I define myself as a maker that like crafting products that deliver value to people.
+I'm fascinated about leveraging tech in order to create products that can impact people's life.
 
-The best way to discover more about me to know my true passions, interests and skills is to read my twitter feed: https://twitter.com/arnaudcoutin
-
-I'm a really curious person that love discovering new things and meet with new people. If you want to have a chat, feel free to reach out to me. 
+If you want to have a chat, feel free to reach out to me. 
 
 <!--
 **arnaudcoutin/arnaudcoutin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
